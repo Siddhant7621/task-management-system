@@ -3,8 +3,8 @@ A simple full-stack task manager built with Node.js, Prisma, PostgreSQL, and Nex
 Includes authentication (JWT + Refresh Tokens), pagination, search, filters, and full CRUD.
 
 🚀 Live URLs
-Frontend (Vercel): [https://your-frontend.vercel.app]
-Backend (Railway): [https://your-backend.up.railway.app]
+Frontend (Vercel): [https://task-manager-frontend-yx9i.vercel.app]
+Backend (Railway): [https://task-manager-backend-v1.up.railway.app/]
 
 🛠 Tech Stack
 Backend: Node.js, TypeScript, Express, Prisma, PostgreSQL, JWT, bcrypt
